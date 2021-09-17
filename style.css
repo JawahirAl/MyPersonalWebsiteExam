@@ -19,4 +19,17 @@ color: rgb(255, 255, 255);
 height: 400px;
 }
 
-
+.img{
+    height: 100px;
+    width: 100px;
+}
+.me-photo{
+    height: 400px;
+    width: 400px;
+   
+                
+  }
+  .navbar
+  {
+      color-adjust: rgba(0,0,0,0);
+  }
