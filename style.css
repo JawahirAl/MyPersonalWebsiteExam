@@ -55,3 +55,53 @@ height: 400px;
     height: 500px;
     text-align: start;
 }
+.icon {
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+   
+  }
+  .gallery {
+    background-color: rgb(243, 159, 104);
+  }
+  
+  .gallery img {
+    border-radius: 2%;
+  }
+  
+  .services {
+    color: #fff;
+  }
+  
+  footer {
+    color: #fff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .sara-jj
+{
+    width: 400px;
+    height: 300px;
+    justify-content: left;
+}
+.likes
+{
+   font-size: 15px;
+}
+
+.img-friend{
+    width: 900px;
+    height: 500px; 
+}
+.canun{
+    width: 50px;
+    height: 50px; 
+}
